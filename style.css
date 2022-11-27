@@ -51,7 +51,7 @@ h2 {
 
 .experiences-item {
     width: 40%;
-    box-shadow: 30px 30px 30px gray;
+    box-shadow: 30px 30px 25px 0px rgba(128, 128, 128, 0.766);
     border-radius: 5px;
     margin-left: 5%;
     margin-right: 3%;
